@@ -43,8 +43,8 @@ item {
   id: 11
 }
 item {
-  name: "Invoice row
-  id: 12"
+  name: "Invoice row"
+  id: 12
 }
 item {
   name: "Tax row"
